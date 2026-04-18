@@ -1,3 +1,5 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I0MmIwMjUtZWQ4MC00Y2RlLTliNWYtYjk5ZWVkNzM3MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%22b3ae9185-14ed-4904-bab4-bb86541d763f%22%2c%22Oid%22%3a%224e5c0e9e-e50f-472a-9e49-94ee7648dbfa%22%7d
+
 # Ecommerce
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.22.
