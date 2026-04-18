@@ -1,0 +1,12 @@
+<h1>Login Form</h1>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-10">
+      <form [formGroup]="logForm" (ngSubmit)="Login()">
+        <input formControlName="email" type="email" placeholder="Email.." class="form-control">
+        <input formControlName="password" type="password" placeholder="Password.." class="form-control">
+        <button class="btn btn-success">Login</button>
+      </form>
+    </div>
+  </div>
+</div>
